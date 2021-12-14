@@ -1,0 +1,63 @@
+BODY{
+background-color: white;    
+}
+body{
+    background-color: rgb(185, 185, 185);
+}
+.title{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1em;
+font-weight: 200;
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+}
+.txt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0em;
+}
+.btn,.btn2,.btnLn{
+    background-color: rgb(100, 100, 100);
+color: white;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+padding:10px;
+border-radius: 2px;
+border:none;
+font-weight: bold;
+margin-top:10px;
+}
+.btn{
+    font-size: 0.8em;
+    display: block;
+
+}
+.btn2{
+    font-size: 1em;
+    display: inline-block;
+
+}
+.btnLn{
+display: inline-block;
+width:40%;
+background-color: rgb(65, 189, 40);
+font-size: 1em;
+}
+.ln{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+}
+.field{
+    border:none;
+    background-color: rgba(245, 245, 245, 1);
+    padding:0.8em;
+    font-size: 1em;    
+}
+#pageField{
+    width:3em;
+}
